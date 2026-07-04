@@ -83,5 +83,22 @@
         "num_paid_holidays": 0.0
       }
     }
+  },
+  "2028496": {
+    "name": "空閑 哲也",
+    "months": {
+      "2026-06": {
+        "work_days": 22,
+        "total_work_mins": 11140,
+        "total_excess_statutory_work_mins": 856,
+        "num_paid_holidays": 3.0
+      },
+      "2026-07": {
+        "work_days": 6,
+        "total_work_mins": 2850,
+        "total_excess_statutory_work_mins": 0,
+        "num_paid_holidays": 3.0
+      }
+    }
   }
 }
