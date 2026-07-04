@@ -1,18 +1,18 @@
 {
   "1943218": {
-    "name": "小川陽暉",
+    "name": "小川 陽暉",
     "months": {
       "2026-06": {
         "work_days": 21,
         "total_work_mins": 10600,
         "total_excess_statutory_work_mins": 316,
-        "num_paid_holidays": 2
+        "num_paid_holidays": 2.0
       },
       "2026-07": {
         "work_days": 5,
         "total_work_mins": 2400,
         "total_excess_statutory_work_mins": 0,
-        "num_paid_holidays": 2
+        "num_paid_holidays": 2.0
       }
     }
   },
