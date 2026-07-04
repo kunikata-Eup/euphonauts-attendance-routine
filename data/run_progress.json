@@ -1,0 +1,7 @@
+{
+  "target_week": "2026-06-29_2026-07-05",
+  "run_date": "2026-07-04",
+  "total_active_employees": 97,
+  "completed_employees": [1943218, 1943221],
+  "note": "初回バッチ。work_record_summaries?work_records=true のレスポンスが1回あたり非常に大きい（1ヶ月分の日次配列で数百行）ため、1セッションで全97名は処理しきれず、2名処理した時点でチェックポイントして終了。次回Run nowで3人目（野口智哉 1943222）から再開する。詳細はdocs/freee_api_notes.mdを参照。"
+}
