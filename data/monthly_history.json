@@ -51,19 +51,19 @@
     }
   },
   "1986176": {
-    "name": "髙野悠星",
+    "name": "髙野 悠星",
     "months": {
       "2026-06": {
         "work_days": 22,
         "total_work_mins": 10365,
         "total_excess_statutory_work_mins": 0,
-        "num_paid_holidays": 0
+        "num_paid_holidays": 0.0
       },
       "2026-07": {
         "work_days": 5,
         "total_work_mins": 2370,
         "total_excess_statutory_work_mins": 0,
-        "num_paid_holidays": 2
+        "num_paid_holidays": 2.0
       }
     }
   },
