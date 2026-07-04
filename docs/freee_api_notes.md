@@ -4,7 +4,7 @@
 （この内容をそのまま使う）。
 
 ## 調査日
-2026-07-04（初回実行時）
+2026-07-04（初回実行時。認証切れで途中停止し、再認証後に再開して検証完了）
 
 ## 結論：全社一括で取得できる勤怠CSV/レポートAPIは存在しない
 
@@ -15,31 +15,55 @@
 
 → 個別従業員ごとに取得する方式（フェーズ1のステップ2〜4）を使うしかない。
 
-## 使用するエンドポイント
+## 使用するエンドポイント（確定版）
 
 | 用途 | メソッド・パス | 備考 |
 |---|---|---|
 | 従業員一覧（全社まとめて1回で取得可） | `GET /api/v1/companies/{company_id}/employees` | 在職中(`retire_date: null`)で絞り込み、除外対象4名をここでフィルタ |
-| 月次サマリー＋当月日次明細 | `GET /api/v1/employees/{employee_id}/work_record_summaries/{year}/{month}` | `work_records=true` クエリを付けると当該月の日次内訳込みで1回のリクエストで取得できる想定（要・再検証。下記「未検証事項」参照） |
-| 個別日の打刻詳細 | `GET /api/v1/employees/{employee_id}/work_records/{date}` | この1エンドポイントのみ `company_id` をクエリパラメータで明示要求された（他は事業所コンテキストから自動解決される中で例外的挙動。要再検証） |
-| 打刻一覧（time_clocks） | `GET /api/v1/employees/{employee_id}/time_clocks` | 出退勤の打刻ログ。日付範囲パラメータの有無は未検証 |
+| 月次サマリー＋日次明細（1回で両方取得） | `GET /api/v1/employees/{employee_id}/work_record_summaries/{year}/{month}?company_id={company_id}&work_records=true` | 下記の注意点を必ず守ること |
 
-## 未検証事項（認証エラーのため確認できず。次回実行時に要検証）
+`time_clocks` や単日の `work_records/{date}` は不要（下記「不要と判明」参照）。
 
-2026-07-04の実行では、従業員一覧取得（`/employees`）は成功したが、その直後に
-以下の個別従業員エンドポイントを呼んだところ、一貫して **認証エラー** が発生し、
-挙動を確認できなかった:
+## 【最重要・注意点1】`company_id` はクエリパラメータに必須
 
-- `GET /api/v1/employees/{id}/work_record_summaries/{year}/{month}`（`work_records=true`有無どちらも） → 403 forbidden
-- `GET /api/v1/employees/{id}/time_clocks/available_types` → 403 forbidden（自分自身の従業員IDでも同様）
-- `GET /api/v1/employees/{id}/work_records/{date}` → 400（`company_id` 未指定エラー。再試行時は company_id をクエリに追加すること）
-- `GET /api/v1/groups` → **401 expired_access_token**（`freee_auth_status` は「有効」と表示されていたにもかかわらず、実際のAPI呼び出しはトークン期限切れで拒否された）
+`company_id` をクエリに付けないと `403 forbidden` になる（事業所コンテキストの自動解決に
+失敗するため）。必ず `query: { company_id: 10700252, ... }` を明示すること。
+（前回実行時の403エラーの原因はこれだった。401 expired_access_tokenは別問題＝トークン失効で、
+再認証により解消済み。）
 
-途中から401 expired_access_tokenが再現するようになったため、これは個別エンドポイントの
-権限不足ではなく、**freee連携のアクセストークンが実行中に期限切れになった**ことが原因の
-可能性が高い。次回実行時、再認証後にあらためて上記エンドポイントの挙動（特に
-`work_records=true`で日次明細が本当に含まれるか、`time_clocks`の日付範囲パラメータ名）
-を確認し、このメモを更新すること。
+## 【最重要・注意点2】`{month}` パラメータは「暦月+1」を指定する
+
+`{month}` は実労働月ではなく、支給月（`closing_day=31`, `month_of_pay_day=next_month` の設定に
+対応する値）。検証の結果、**暦月Mの実労働データを取得するには `{month}=M+1` を指定する**。
+
+例：2026年7月の実労働データが欲しい場合 → `.../work_record_summaries/2026/8` をリクエストする。
+`.../2026/7` をリクエストすると2026年6月分が返ってくる。
+
+全従業員が同じ `closing_day: 31` / `month_of_pay_day: next_month` 設定（`/employees` 一覧で確認済み）
+なので、このオフセットは全従業員共通と考えてよい。
+
+## 【最重要・注意点3】`work_records=true` で日次明細＋月次サマリーが1回で取れる
+
+`work_records=true` を付けると、レスポンスに月次サマリー(`total_work_mins`,
+`total_excess_statutory_work_mins`, `num_paid_holidays`, `num_paid_holidays_left` 等)と、
+その月全日分の日次明細配列 `work_records[]`（各日の `clock_in_at`/`clock_out_at`/
+`break_records`/`day_pattern`/`note` 等）が **両方** 含まれる。
+
+→ 日次データ取得と月次サマリー取得を別々のAPIコールにする必要はない。常に
+`work_records=true` を付けて1回呼べば両方まかなえる。これによりフェーズ1の想定コール数
+（1人あたり最大3回）は実質「前月分1回＋当月分1回＝2回」に削減できる
+（前月分が不要な週＝実行日が月の8日目以降の週は当月分1回のみでよい）。
+
+未来日（まだ到来していない日）は `clock_in_at`/`clock_out_at` が `null` のまま所定パターンで
+返ってくる（＝欠勤ではなく単に「まだ勤務していない」）。打刻漏れ判定では実行日より前の日付のみを
+対象にすること。
+
+## 不要と判明したエンドポイント
+- `GET /api/v1/employees/{id}/time_clocks` → 従業員によっては「タイムレコーダー機能がオフに
+  なっています」(400)で使えない。`work_record_summaries?work_records=true` で日次の打刻時刻は
+  取得できるため、このエンドポイントは使わない。
+- `GET /api/v1/employees/{id}/work_records/{date}`（単日）→ 上記の月次まとめ取得で代替できるため
+  使わない。
 
 ## 対象外従業員（管理者・専任担当者として除外）
 - 國方翔冴（employee_id: 1928011）

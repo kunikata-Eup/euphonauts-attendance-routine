@@ -1,1 +1,87 @@
-{}
+{
+  "1943218": {
+    "name": "小川陽暉",
+    "months": {
+      "2026-06": {
+        "work_days": 21,
+        "total_work_mins": 10600,
+        "total_excess_statutory_work_mins": 316,
+        "num_paid_holidays": 2
+      },
+      "2026-07": {
+        "work_days": 5,
+        "total_work_mins": 2400,
+        "total_excess_statutory_work_mins": 0,
+        "num_paid_holidays": 2
+      }
+    }
+  },
+  "1943221": {
+    "name": "田中大地",
+    "months": {
+      "2026-06": {
+        "work_days": 22,
+        "total_work_mins": 11550,
+        "total_excess_statutory_work_mins": 960,
+        "num_paid_holidays": 2
+      },
+      "2026-07": {
+        "work_days": 5,
+        "total_work_mins": 2490,
+        "total_excess_statutory_work_mins": 0,
+        "num_paid_holidays": 2
+      }
+    }
+  },
+  "1943222": {
+    "name": "野口智哉",
+    "months": {
+      "2026-06": {
+        "work_days": 22,
+        "total_work_mins": 10980,
+        "total_excess_statutory_work_mins": 696,
+        "num_paid_holidays": 2
+      },
+      "2026-07": {
+        "work_days": 3,
+        "total_work_mins": 1605,
+        "total_excess_statutory_work_mins": 0,
+        "num_paid_holidays": 0
+      }
+    }
+  },
+  "1986176": {
+    "name": "髙野悠星",
+    "months": {
+      "2026-06": {
+        "work_days": 22,
+        "total_work_mins": 10365,
+        "total_excess_statutory_work_mins": 0,
+        "num_paid_holidays": 0
+      },
+      "2026-07": {
+        "work_days": 5,
+        "total_work_mins": 2370,
+        "total_excess_statutory_work_mins": 0,
+        "num_paid_holidays": 2
+      }
+    }
+  },
+  "1986181": {
+    "name": "紺野将人",
+    "months": {
+      "2026-06": {
+        "work_days": 22,
+        "total_work_mins": 10485,
+        "total_excess_statutory_work_mins": 201,
+        "num_paid_holidays": 2
+      },
+      "2026-07": {
+        "work_days": 4,
+        "total_work_mins": 1905,
+        "total_excess_statutory_work_mins": 0,
+        "num_paid_holidays": 0
+      }
+    }
+  }
+}
