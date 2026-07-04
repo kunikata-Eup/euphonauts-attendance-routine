@@ -17,19 +17,19 @@
     }
   },
   "1943221": {
-    "name": "田中大地",
+    "name": "田中 大地",
     "months": {
       "2026-06": {
         "work_days": 22,
         "total_work_mins": 11550,
         "total_excess_statutory_work_mins": 960,
-        "num_paid_holidays": 2
+        "num_paid_holidays": 2.0
       },
       "2026-07": {
         "work_days": 5,
         "total_work_mins": 2490,
         "total_excess_statutory_work_mins": 0,
-        "num_paid_holidays": 2
+        "num_paid_holidays": 2.0
       }
     }
   },
