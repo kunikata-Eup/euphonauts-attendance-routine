@@ -34,19 +34,19 @@
     }
   },
   "1943222": {
-    "name": "野口智哉",
+    "name": "野口 智哉",
     "months": {
       "2026-06": {
         "work_days": 22,
         "total_work_mins": 10980,
         "total_excess_statutory_work_mins": 696,
-        "num_paid_holidays": 2
+        "num_paid_holidays": 2.0
       },
       "2026-07": {
         "work_days": 3,
         "total_work_mins": 1605,
         "total_excess_statutory_work_mins": 0,
-        "num_paid_holidays": 0
+        "num_paid_holidays": 0.0
       }
     }
   },
