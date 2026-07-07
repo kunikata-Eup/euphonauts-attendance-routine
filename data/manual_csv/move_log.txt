@@ -59,3 +59,17 @@ push: ï¿½ï¿½ï¿½ï¿½
 A duplicate file name exists, or the file
 cannot be found.
 ï¿½Ú“ï¿½ï¿½ï¿½ï¿½ï¿½: Downloadsï¿½tï¿½Hï¿½ï¿½ï¿½_ï¿½Écï¿½ï¿½ï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½È‚ï¿½ï¿½iï¿½ï¿½ï¿½ï¿½j 
+warning: in the working copy of 'data/manual_csv/move_log.txt', LF will be replaced by CRLF the next time Git touches it
+[claude/sharp-sagan-nox10q 19b12cb] Update attendance CSV (automated, 2026/07/07  9:57:32.33)
+ 1 file changed, 13 insertions(+)
+commit: ï¿½ï¿½ï¿½ï¿½ 
+To https://github.com/kunikata-Eup/euphonauts-attendance-routine.git
+   9f93251..19b12cb  claude/sharp-sagan-nox10q -> claude/sharp-sagan-nox10q
+push: ï¿½ï¿½ï¿½ï¿½ 
+===== ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 2026/07/07  9:57:35.15 ===== 
+ 
+===== 2026/07/07 10:06:17.99 ===== 
+C:\Users\Kunikata\Downloads\“úŸ‹Î‘Óˆê——_Œ––’÷‚ßi—‚Œ––“ú•¥‚¢j_2026_07.csv
+C:\Users\Kunikata\Downloads\“úŸ‹Î‘Óˆê——_Œ––’÷‚ßi—‚Œ––“ú•¥‚¢j_2026_08.csv
+        2 ŒÂ‚Ìƒtƒ@ƒCƒ‹‚ğˆÚ“®‚µ‚Ü‚µ‚½B
+ˆÚ“®ˆ—: DownloadsƒtƒHƒ‹ƒ_‚Éc‘¶ƒtƒ@ƒCƒ‹‚È‚µi³íj 
