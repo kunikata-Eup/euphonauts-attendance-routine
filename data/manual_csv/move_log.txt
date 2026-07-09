@@ -109,3 +109,17 @@ push: 成功（push先: branch）
 重複するファイル名が存在するか、またはファイルが
 見つかりませんでした。
 移動処理: Downloadsフォルダに残存ファイルなし（正常） 
+warning: in the working copy of 'data/manual_csv/move_log.txt', LF will be replaced by CRLF the next time Git touches it
+[claude/sharp-sagan-nox10q 1765df0] Update attendance CSV (automated, 2026/07/07 12:17:50.54)
+ 1 file changed, 20 insertions(+)
+commit: 成功 
+Default branch: claude/sharp-sagan-nox10q 
+To https://github.com/kunikata-Eup/euphonauts-attendance-routine.git
+   2803065..1765df0  HEAD -> claude/sharp-sagan-nox10q
+push: 成功（push先: claude/sharp-sagan-nox10q） 
+===== 処理完了 2026/07/07 12:17:54.40 ===== 
+ 
+===== 2026/07/10  7:30:01.32 ===== 
+重複するファイル名が存在するか、またはファイルが
+見つかりませんでした。
+移動処理: Downloadsフォルダに残存ファイルなし（正常） 
