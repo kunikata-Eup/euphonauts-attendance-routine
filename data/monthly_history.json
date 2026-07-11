@@ -83,5 +83,1115 @@
         "num_paid_holidays": 0
       }
     }
+  },
+  "00002": {
+    "name": "小川 陽暉",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00003": {
+    "name": "田中 大地",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 306
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00004": {
+    "name": "野口 智哉",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00007": {
+    "name": "髙野 悠星",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 81
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00008": {
+    "name": "紺野 将人",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00016": {
+    "name": "空閑 哲也",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00017": {
+    "name": "前田 和也",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 1776
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00018": {
+    "name": "松本 紳太郎",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 986
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00020": {
+    "name": "飯田 諒平",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 426
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00023": {
+    "name": "上原 帆菜実",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00024": {
+    "name": "勝田 康太",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 96
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00025": {
+    "name": "小林 主将",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 216
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00026": {
+    "name": "山本 晃寛 ",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00030": {
+    "name": "三浦 風薫",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00038": {
+    "name": "猪原 将志",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 2076
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00040": {
+    "name": "浪岡 沙弥香",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00043": {
+    "name": "千行 玲奈",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00044": {
+    "name": "越前 和也",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 1146
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00047": {
+    "name": "中川 陽香",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00048": {
+    "name": "大塚 純也",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 1296
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00049": {
+    "name": "吉田 彩花",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00052": {
+    "name": "鈴木 貴大",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00053": {
+    "name": "松島 優",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 1731
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00054": {
+    "name": "森 美保",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 141
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00055": {
+    "name": "熊谷 勇人",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 756
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00058": {
+    "name": "望月 亘",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00063": {
+    "name": "大石 千夏",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00057": {
+    "name": "水元 大輔",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 351
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00056": {
+    "name": "森田 拓也",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 276
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00065": {
+    "name": "加藤 まゆ",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00066": {
+    "name": "牧田 寿人",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00067": {
+    "name": "関本 崇文",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00069": {
+    "name": "小林 莉緒",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00072": {
+    "name": "福島 千晶",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 1171
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00071": {
+    "name": "吉野 聖渚",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00070": {
+    "name": "橘 亜里紗",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00073": {
+    "name": "武田 知輝",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00075": {
+    "name": "西山 依利",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00076": {
+    "name": "満重 博斗",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00078": {
+    "name": "髙橋 和希",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00079": {
+    "name": "千葉  峻生",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00077": {
+    "name": "村岡 菜津子",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 525
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00082": {
+    "name": "梅本 翔太",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00083": {
+    "name": "橋本 皇聖",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00074": {
+    "name": "長崎 恵利佳",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00086": {
+    "name": "佐久間 成海",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00087": {
+    "name": "伊藤 楓望",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00088": {
+    "name": "大橋 海",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00089": {
+    "name": "高野 涼輔",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00092": {
+    "name": "栄口 里香",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 36
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00093": {
+    "name": "小堀 虹南",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 486
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00094": {
+    "name": "高辺 香衣",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 906
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00095": {
+    "name": "神野 遥",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 1791
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00097": {
+    "name": "酒井 陽菜",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00098": {
+    "name": "金子 明日香",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 1186
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00099": {
+    "name": "伊藤 優汰",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00100": {
+    "name": "瀧澤 光姫",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 1101
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00102": {
+    "name": "内出 瞳",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 426
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00107": {
+    "name": "山本 真也",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 246
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00106": {
+    "name": "秋元 美香",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00108": {
+    "name": "稲川 まどか",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 1191
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00109": {
+    "name": "井上 恵美子",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 460
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00110": {
+    "name": "森 日奈子",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00101": {
+    "name": "森田 千尋",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 1007
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00103": {
+    "name": "三上 紗和",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 1345
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00104": {
+    "name": "那花 陽香莉",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 474
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00111": {
+    "name": "由利 敬蔵",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 951
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00112": {
+    "name": "熊谷 南美",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 808
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00113": {
+    "name": "太田 ひかる",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00114": {
+    "name": "山田 百恵",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 451
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00115": {
+    "name": "渥美 菜月",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 426
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00116": {
+    "name": "大久保 恵利佳",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00117": {
+    "name": "大田 侑里",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00119": {
+    "name": "三嶋 雅幸",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 726
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00120": {
+    "name": "山田 冬馬",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00122": {
+    "name": "市野 瑞穂",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00126": {
+    "name": "山崎 望亜",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 546
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00123": {
+    "name": "町田 悠稀乃",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 212
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00125": {
+    "name": "山鹿 誉幸",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 396
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00124": {
+    "name": "藤家 理沙",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 490
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00127": {
+    "name": "本田 彩音",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00128": {
+    "name": "桐ヶ谷 拓実",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 516
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00129": {
+    "name": "畑山 玲南",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 418
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00130": {
+    "name": "馬塲 優妃",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 0
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00131": {
+    "name": "吉岡 紗英子",
+    "months": {
+      "2026-06": {
+        "overtime_mins": 374
+      },
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00132": {
+    "name": "伊原 由起",
+    "months": {
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00133": {
+    "name": "佐藤 春香",
+    "months": {
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00134": {
+    "name": "佐藤 翔大",
+    "months": {
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00135": {
+    "name": "鈴木 幸誠",
+    "months": {
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00136": {
+    "name": "関口 幸花",
+    "months": {
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00137": {
+    "name": "槙田 留実",
+    "months": {
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00138": {
+    "name": "森田 秀美",
+    "months": {
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00140": {
+    "name": "八木 信行",
+    "months": {
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00139": {
+    "name": "渡邊 英里子",
+    "months": {
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
+  },
+  "00141": {
+    "name": "臼井 菜摘",
+    "months": {
+      "2026-07": {
+        "overtime_mins_mtd": 0,
+        "mtd_as_of": "2026-07-10"
+      }
+    }
   }
 }
