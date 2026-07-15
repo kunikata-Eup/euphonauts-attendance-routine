@@ -1,87 +1,1636 @@
 {
-  "1943218": {
-    "name": "小川陽暉",
+  "00002": {
     "months": {
       "2026-06": {
-        "work_days": 21,
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
         "total_work_mins": 10600,
-        "total_excess_statutory_work_mins": 316,
-        "num_paid_holidays": 2
+        "work_days": 19
       },
       "2026-07": {
-        "work_days": 5,
-        "total_work_mins": 2400,
+        "num_paid_holidays": 2,
         "total_excess_statutory_work_mins": 0,
-        "num_paid_holidays": 2
+        "total_work_mins": 4800,
+        "work_days": 8
       }
-    }
+    },
+    "name": "小川 陽暉"
+  },
+  "00003": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 306,
+        "total_work_mins": 11550,
+        "work_days": 20
+      },
+      "2026-07": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5580,
+        "work_days": 9
+      }
+    },
+    "name": "田中 大地"
+  },
+  "00004": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10980,
+        "work_days": 20
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5355,
+        "work_days": 10
+      }
+    },
+    "name": "野口 智哉"
+  },
+  "00007": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 81,
+        "total_work_mins": 10365,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4830,
+        "work_days": 8
+      }
+    },
+    "name": "髙野 悠星"
+  },
+  "00008": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10485,
+        "work_days": 20
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4275,
+        "work_days": 8
+      }
+    },
+    "name": "紺野 将人"
+  },
+  "00016": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 3,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 11140,
+        "work_days": 19
+      },
+      "2026-07": {
+        "num_paid_holidays": 3,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5895,
+        "work_days": 9
+      }
+    },
+    "name": "空閑 哲也"
+  },
+  "00017": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 1776,
+        "total_work_mins": 12060,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5340,
+        "work_days": 10
+      }
+    },
+    "name": "前田 和也"
+  },
+  "00018": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 986,
+        "total_work_mins": 11750,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5345,
+        "work_days": 10
+      }
+    },
+    "name": "松本 紳太郎"
+  },
+  "00020": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 426,
+        "total_work_mins": 10710,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 3885,
+        "work_days": 6
+      }
+    },
+    "name": "飯田 諒平"
+  },
+  "00023": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 9240,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4680,
+        "work_days": 10
+      }
+    },
+    "name": "上原 帆菜実"
+  },
+  "00024": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 96,
+        "total_work_mins": 10380,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4800,
+        "work_days": 10
+      }
+    },
+    "name": "勝田 康太"
+  },
+  "00025": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 216,
+        "total_work_mins": 11460,
+        "work_days": 20
+      },
+      "2026-07": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 6000,
+        "work_days": 9
+      }
+    },
+    "name": "小林 主将"
+  },
+  "00026": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10117,
+        "work_days": 20
+      },
+      "2026-07": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5417,
+        "work_days": 9
+      }
+    },
+    "name": "山本 晃寛 "
+  },
+  "00030": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10260,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 949,
+        "work_days": 2
+      }
+    },
+    "name": "三浦 風薫"
+  },
+  "00038": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 2076,
+        "total_work_mins": 12840,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5695,
+        "work_days": 9
+      }
+    },
+    "name": "猪原 将志"
+  },
+  "00040": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 11350,
+        "work_days": 16
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5430,
+        "work_days": 11
+      }
+    },
+    "name": "浪岡 沙弥香"
+  },
+  "00043": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10965,
+        "work_days": 20
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4500,
+        "work_days": 8
+      }
+    },
+    "name": "千行 玲奈"
+  },
+  "00044": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 1146,
+        "total_work_mins": 12390,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4920,
+        "work_days": 9
+      }
+    },
+    "name": "越前 和也"
+  },
+  "00047": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 6,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 11479,
+        "work_days": 16
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 3971,
+        "work_days": 7
+      }
+    },
+    "name": "中川 陽香"
+  },
+  "00048": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 1296,
+        "total_work_mins": 11580,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5100,
+        "work_days": 9
+      }
+    },
+    "name": "大塚 純也"
+  },
+  "00049": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 7410,
+        "work_days": 10
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 3840,
+        "work_days": 8
+      }
+    },
+    "name": "吉田 彩花"
+  },
+  "00052": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 9960,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4080,
+        "work_days": 8
+      }
+    },
+    "name": "鈴木 貴大"
+  },
+  "00053": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 1731,
+        "total_work_mins": 12495,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5145,
+        "work_days": 10
+      }
+    },
+    "name": "松島 優"
+  },
+  "00054": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 141,
+        "total_work_mins": 10425,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4695,
+        "work_days": 10
+      }
+    },
+    "name": "森 美保"
+  },
+  "00055": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 756,
+        "total_work_mins": 11040,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5310,
+        "work_days": 10
+      }
+    },
+    "name": "熊谷 勇人"
+  },
+  "00056": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 276,
+        "total_work_mins": 10560,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5280,
+        "work_days": 10
+      }
+    },
+    "name": "森田 拓也"
+  },
+  "00057": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 351,
+        "total_work_mins": 11295,
+        "work_days": 20
+      },
+      "2026-07": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4800,
+        "work_days": 8
+      }
+    },
+    "name": "水元 大輔"
+  },
+  "00058": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10893,
+        "work_days": 20
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4185,
+        "work_days": 7
+      }
+    },
+    "name": "望月 亘"
+  },
+  "00063": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10168,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4010,
+        "work_days": 9
+      }
+    },
+    "name": "大石 千夏"
+  },
+  "00065": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10560,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 10,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4800,
+        "work_days": 0
+      }
+    },
+    "name": "加藤 まゆ"
+  },
+  "00066": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10125,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4640,
+        "work_days": 10
+      }
+    },
+    "name": "牧田 寿人"
+  },
+  "00067": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 3,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10290,
+        "work_days": 19
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4320,
+        "work_days": 9
+      }
+    },
+    "name": "関本 崇文"
+  },
+  "00069": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10170,
+        "work_days": 20
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5022,
+        "work_days": 10
+      }
+    },
+    "name": "小林 莉緒"
+  },
+  "00070": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 9905,
+        "work_days": 20
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4225,
+        "work_days": 9
+      }
+    },
+    "name": "橘 亜里紗"
+  },
+  "00071": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10245,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 6000,
+        "work_days": 10
+      }
+    },
+    "name": "吉野 聖渚"
+  },
+  "00072": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 1171,
+        "total_work_mins": 11455,
+        "work_days": 19
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5630,
+        "work_days": 9
+      }
+    },
+    "name": "福島 千晶"
+  },
+  "00073": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 9945,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 3540,
+        "work_days": 6
+      }
+    },
+    "name": "武田 知輝"
+  },
+  "00074": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 8271,
+        "work_days": 17
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4003,
+        "work_days": 9
+      }
+    },
+    "name": "長崎 恵利佳"
+  },
+  "00075": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10640,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4865,
+        "work_days": 10
+      }
+    },
+    "name": "西山 依利"
+  },
+  "00076": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10575,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5040,
+        "work_days": 10
+      }
+    },
+    "name": "満重 博斗"
+  },
+  "00077": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 525,
+        "total_work_mins": 10809,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 2413,
+        "work_days": 4
+      }
+    },
+    "name": "村岡 菜津子"
+  },
+  "00078": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10260,
+        "work_days": 20
+      },
+      "2026-07": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5190,
+        "work_days": 9
+      }
+    },
+    "name": "髙橋 和希"
+  },
+  "00079": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 7980,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 3600,
+        "work_days": 8
+      }
+    },
+    "name": "千葉  峻生"
+  },
+  "00082": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10080,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4710,
+        "work_days": 9
+      }
+    },
+    "name": "梅本 翔太"
+  },
+  "00083": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 3,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10650,
+        "work_days": 19
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4800,
+        "work_days": 9
+      }
+    },
+    "name": "橋本 皇聖"
+  },
+  "00086": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 9900,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5040,
+        "work_days": 10
+      }
+    },
+    "name": "佐久間 成海"
+  },
+  "00087": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 9990,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 3630,
+        "work_days": 8
+      }
+    },
+    "name": "伊藤 楓望"
+  },
+  "00088": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 8640,
+        "work_days": 11
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 3600,
+        "work_days": 4
+      }
+    },
+    "name": "大橋 海"
+  },
+  "00089": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10125,
+        "work_days": 20
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 0,
+        "work_days": 0
+      }
+    },
+    "name": "高野 涼輔"
+  },
+  "00092": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 156,
+        "total_work_mins": 10680,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5530,
+        "work_days": 10
+      }
+    },
+    "name": "栄口 里香"
+  },
+  "00093": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 486,
+        "total_work_mins": 11010,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4447,
+        "work_days": 9
+      }
+    },
+    "name": "小堀 虹南"
+  },
+  "00094": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 906,
+        "total_work_mins": 11190,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5300,
+        "work_days": 9
+      }
+    },
+    "name": "高辺 香衣"
+  },
+  "00095": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 1791,
+        "total_work_mins": 12075,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5065,
+        "work_days": 10
+      }
+    },
+    "name": "神野 遥"
+  },
+  "00097": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 9340,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5100,
+        "work_days": 11
+      }
+    },
+    "name": "酒井 陽菜"
+  },
+  "00098": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 1351,
+        "total_work_mins": 11635,
+        "work_days": 23
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4660,
+        "work_days": 9
+      }
+    },
+    "name": "金子 明日香"
+  },
+  "00099": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10615,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4940,
+        "work_days": 10
+      }
+    },
+    "name": "伊藤 優汰"
+  },
+  "00100": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 1101,
+        "total_work_mins": 11385,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4570,
+        "work_days": 9
+      }
+    },
+    "name": "瀧澤 光姫"
+  },
+  "00101": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 1007,
+        "total_work_mins": 11291,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5611,
+        "work_days": 10
+      }
+    },
+    "name": "森田 千尋"
+  },
+  "00102": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 426,
+        "total_work_mins": 10710,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4934,
+        "work_days": 10
+      }
+    },
+    "name": "内出 瞳"
+  },
+  "00103": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 1345,
+        "total_work_mins": 11629,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 7390,
+        "work_days": 11
+      }
+    },
+    "name": "三上 紗和"
+  },
+  "00104": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 474,
+        "total_work_mins": 10758,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4125,
+        "work_days": 7
+      }
+    },
+    "name": "那花 陽香莉"
+  },
+  "00106": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10080,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4290,
+        "work_days": 9
+      }
+    },
+    "name": "秋元 美香"
+  },
+  "00107": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 246,
+        "total_work_mins": 10530,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 3900,
+        "work_days": 8
+      }
+    },
+    "name": "山本 真也"
+  },
+  "00108": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 1191,
+        "total_work_mins": 11475,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4560,
+        "work_days": 8
+      }
+    },
+    "name": "稲川 まどか"
+  },
+  "00109": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 460,
+        "total_work_mins": 10744,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 3990,
+        "work_days": 9
+      }
+    },
+    "name": "井上 恵美子"
+  },
+  "00110": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10755,
+        "work_days": 20
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4950,
+        "work_days": 9
+      }
+    },
+    "name": "森 日奈子"
+  },
+  "00111": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 951,
+        "total_work_mins": 11235,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4600,
+        "work_days": 9
+      }
+    },
+    "name": "由利 敬蔵"
+  },
+  "00112": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 808,
+        "total_work_mins": 11092,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4503,
+        "work_days": 9
+      }
+    },
+    "name": "熊谷 南美"
+  },
+  "00113": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10665,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4830,
+        "work_days": 10
+      }
+    },
+    "name": "太田 ひかる"
+  },
+  "00114": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 571,
+        "total_work_mins": 10855,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5440,
+        "work_days": 9
+      }
+    },
+    "name": "山田 百恵"
+  },
+  "00115": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 426,
+        "total_work_mins": 10710,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4965,
+        "work_days": 9
+      }
+    },
+    "name": "渥美 菜月"
+  },
+  "00116": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10110,
+        "work_days": 22
+      }
+    },
+    "name": "大久保 恵利佳"
+  },
+  "00117": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 9750,
+        "work_days": 20
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5400,
+        "work_days": 7
+      }
+    },
+    "name": "大田 侑里"
+  },
+  "00119": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 726,
+        "total_work_mins": 11010,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4995,
+        "work_days": 10
+      }
+    },
+    "name": "三嶋 雅幸"
+  },
+  "00120": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10341,
+        "work_days": 20
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4639,
+        "work_days": 10
+      }
+    },
+    "name": "山田 冬馬"
+  },
+  "00122": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 9740,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 0,
+        "work_days": 0
+      }
+    },
+    "name": "市野 瑞穂"
+  },
+  "00123": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 212,
+        "total_work_mins": 10496,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 3,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 6386,
+        "work_days": 10
+      }
+    },
+    "name": "町田 悠稀乃"
+  },
+  "00124": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 490,
+        "total_work_mins": 10774,
+        "work_days": 23
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4499,
+        "work_days": 9
+      }
+    },
+    "name": "藤家 理沙"
+  },
+  "00125": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 396,
+        "total_work_mins": 10680,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 2460,
+        "work_days": 5
+      }
+    },
+    "name": "山鹿 誉幸"
+  },
+  "00126": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 546,
+        "total_work_mins": 10830,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4560,
+        "work_days": 9
+      }
+    },
+    "name": "山崎 望亜"
+  },
+  "00127": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 9200,
+        "work_days": 19
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 3730,
+        "work_days": 8
+      }
+    },
+    "name": "本田 彩音"
+  },
+  "00128": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 516,
+        "total_work_mins": 10800,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5275,
+        "work_days": 10
+      }
+    },
+    "name": "桐ヶ谷 拓実"
+  },
+  "00129": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 418,
+        "total_work_mins": 10702,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4200,
+        "work_days": 7
+      }
+    },
+    "name": "畑山 玲南"
+  },
+  "00130": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 10244,
+        "work_days": 22
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4364,
+        "work_days": 9
+      }
+    },
+    "name": "馬塲 優妃"
+  },
+  "00131": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 374,
+        "total_work_mins": 10898,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5040,
+        "work_days": 10
+      }
+    },
+    "name": "吉岡 紗英子"
+  },
+  "00132": {
+    "months": {
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4980,
+        "work_days": 10
+      }
+    },
+    "name": "伊原 由起"
+  },
+  "00133": {
+    "months": {
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4920,
+        "work_days": 10
+      }
+    },
+    "name": "佐藤 春香"
+  },
+  "00134": {
+    "months": {
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5862,
+        "work_days": 10
+      }
+    },
+    "name": "佐藤 翔大"
+  },
+  "00135": {
+    "months": {
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4670,
+        "work_days": 10
+      }
+    },
+    "name": "鈴木 幸誠"
+  },
+  "00136": {
+    "months": {
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4470,
+        "work_days": 9
+      }
+    },
+    "name": "関口 幸花"
+  },
+  "00137": {
+    "months": {
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4420,
+        "work_days": 9
+      }
+    },
+    "name": "槙田 留実"
+  },
+  "00138": {
+    "months": {
+      "2026-07": {
+        "num_paid_holidays": 1,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4980,
+        "work_days": 9
+      }
+    },
+    "name": "森田 秀美"
+  },
+  "00139": {
+    "months": {
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4980,
+        "work_days": 10
+      }
+    },
+    "name": "渡邊 英里子"
+  },
+  "00140": {
+    "months": {
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 5005,
+        "work_days": 10
+      }
+    },
+    "name": "八木 信行"
+  },
+  "00141": {
+    "months": {
+      "2026-07": {
+        "num_paid_holidays": 0,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 4990,
+        "work_days": 10
+      }
+    },
+    "name": "臼井 菜摘"
+  },
+  "1943218": {
+    "months": {
+      "2026-06": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 316,
+        "total_work_mins": 10600,
+        "work_days": 21
+      },
+      "2026-07": {
+        "num_paid_holidays": 2,
+        "total_excess_statutory_work_mins": 0,
+        "total_work_mins": 2400,
+        "work_days": 5
+      }
+    },
+    "name": "小川陽暉"
   },
   "1943221": {
-    "name": "田中大地",
     "months": {
       "2026-06": {
-        "work_days": 22,
-        "total_work_mins": 11550,
+        "num_paid_holidays": 2,
         "total_excess_statutory_work_mins": 960,
-        "num_paid_holidays": 2
+        "total_work_mins": 11550,
+        "work_days": 22
       },
       "2026-07": {
-        "work_days": 5,
-        "total_work_mins": 2490,
+        "num_paid_holidays": 2,
         "total_excess_statutory_work_mins": 0,
-        "num_paid_holidays": 2
+        "total_work_mins": 2490,
+        "work_days": 5
       }
-    }
+    },
+    "name": "田中大地"
   },
   "1943222": {
-    "name": "野口智哉",
     "months": {
       "2026-06": {
-        "work_days": 22,
-        "total_work_mins": 10980,
+        "num_paid_holidays": 2,
         "total_excess_statutory_work_mins": 696,
-        "num_paid_holidays": 2
+        "total_work_mins": 10980,
+        "work_days": 22
       },
       "2026-07": {
-        "work_days": 3,
-        "total_work_mins": 1605,
+        "num_paid_holidays": 0,
         "total_excess_statutory_work_mins": 0,
-        "num_paid_holidays": 0
+        "total_work_mins": 1605,
+        "work_days": 3
       }
-    }
+    },
+    "name": "野口智哉"
   },
   "1986176": {
-    "name": "髙野悠星",
     "months": {
       "2026-06": {
-        "work_days": 22,
-        "total_work_mins": 10365,
+        "num_paid_holidays": 0,
         "total_excess_statutory_work_mins": 0,
-        "num_paid_holidays": 0
+        "total_work_mins": 10365,
+        "work_days": 22
       },
       "2026-07": {
-        "work_days": 5,
-        "total_work_mins": 2370,
+        "num_paid_holidays": 2,
         "total_excess_statutory_work_mins": 0,
-        "num_paid_holidays": 2
+        "total_work_mins": 2370,
+        "work_days": 5
       }
-    }
+    },
+    "name": "髙野悠星"
   },
   "1986181": {
-    "name": "紺野将人",
     "months": {
       "2026-06": {
-        "work_days": 22,
-        "total_work_mins": 10485,
+        "num_paid_holidays": 2,
         "total_excess_statutory_work_mins": 201,
-        "num_paid_holidays": 2
+        "total_work_mins": 10485,
+        "work_days": 22
       },
       "2026-07": {
-        "work_days": 4,
-        "total_work_mins": 1905,
+        "num_paid_holidays": 0,
         "total_excess_statutory_work_mins": 0,
-        "num_paid_holidays": 0
+        "total_work_mins": 1905,
+        "work_days": 4
       }
-    }
+    },
+    "name": "紺野将人"
   }
 }
