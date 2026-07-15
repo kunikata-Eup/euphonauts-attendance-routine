@@ -226,3 +226,23 @@ push: 成功（push先: main）
 重複するファイル名が存在するか、またはファイルが
 見つかりませんでした。
 移動処理: Downloadsフォルダに残存ファイルなし（正常） 
+warning: in the working copy of 'data/manual_csv/move_log.txt', LF will be replaced by CRLF the next time Git touches it
+[main b45f7d7] Update attendance CSV (automated, 2026/07/15 13:44:37.68)
+ 1 file changed, 22 insertions(+)
+commit: 成功 
+Default branch: main 
+To https://github.com/kunikata-Eup/euphonauts-attendance-routine.git
+ ! [rejected]        HEAD -> main (fetch first)
+error: failed to push some refs to 'https://github.com/kunikata-Eup/euphonauts-attendance-routine.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+push: 成功（push先: main） 
+===== 処理完了 2026/07/15 13:44:40.42 ===== 
+ 
+===== 2026/07/15 13:45:45.77 ===== 
+重複するファイル名が存在するか、またはファイルが
+見つかりませんでした。
+移動処理: Downloadsフォルダに残存ファイルなし（正常） 
