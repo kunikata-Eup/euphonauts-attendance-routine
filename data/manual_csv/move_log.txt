@@ -1,24 +1,3 @@
-===== 2026/07/07 12:13:01.73 ===== 
-C:\Users\Kunikata\Downloads\日次勤怠一覧_月末締め（翌月末日払い）_2026_07.csv
-C:\Users\Kunikata\Downloads\日次勤怠一覧_月末締め（翌月末日払い）_2026_08.csv
-        2 個のファイルを移動しました。
-移動処理: Downloadsフォルダに残存ファイルなし（正常） 
-warning: in the working copy of 'data/manual_csv/move_log.txt', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'data/manual_csv/譌･谺｡蜍､諤荳隕ｧ_譛域忰邱繧・ｼ育ｿ梧怦譛ｫ譌･謇輔＞・雲2026_07.csv', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'data/manual_csv/譌･谺｡蜍､諤荳隕ｧ_譛域忰邱繧・ｼ育ｿ梧怦譛ｫ譌･謇輔＞・雲2026_08.csv', LF will be replaced by CRLF the next time Git touches it
-[claude/sharp-sagan-nox10q 7ae7035] Update attendance CSV (automated, 2026/07/07 12:13:01.95)
- 1 file changed, 16 insertions(+)
-commit: 成功 
-Default branch: branch 
-remote: 
-remote: Create a pull request for 'branch' on GitHub by visiting:        
-remote:      https://github.com/kunikata-Eup/euphonauts-attendance-routine/pull/new/branch        
-remote: 
-To https://github.com/kunikata-Eup/euphonauts-attendance-routine.git
- * [new branch]      HEAD -> branch
-push: 成功（push先: branch） 
-===== 処理完了 2026/07/07 12:13:07.41 ===== 
- 
 ===== 2026/07/07 12:17:50.45 ===== 
 重複するファイル名が存在するか、またはファイルが
 見つかりませんでした。
@@ -277,6 +256,23 @@ push: 成功（push先: main）
 ===== 処理完了 2026/07/19  7:30:08.19 ===== 
  
 ===== 2026/07/20  7:30:01.15 ===== 
+重複するファイル名が存在するか、またはファイルが
+見つかりませんでした。
+移動処理: Downloadsフォルダに残存ファイルなし（正常） 
+[main 86bbdfa] Update attendance CSV (automated, 2026/07/20  7:30:01.79)
+ 1 file changed, 17 insertions(+), 16 deletions(-)
+commit: 成功 
+Default branch: main 
+From https://github.com/kunikata-Eup/euphonauts-attendance-routine
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+pull: 成功 
+To https://github.com/kunikata-Eup/euphonauts-attendance-routine.git
+   e717258..86bbdfa  HEAD -> main
+push: 成功（push先: main） 
+===== 処理完了 2026/07/20  7:30:07.41 ===== 
+ 
+===== 2026/07/22  7:30:01.94 ===== 
 重複するファイル名が存在するか、またはファイルが
 見つかりませんでした。
 移動処理: Downloadsフォルダに残存ファイルなし（正常） 
