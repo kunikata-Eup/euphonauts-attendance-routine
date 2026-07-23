@@ -1,17 +1,3 @@
-===== 2026/07/07 12:17:50.45 ===== 
-重複するファイル名が存在するか、またはファイルが
-見つかりませんでした。
-移動処理: Downloadsフォルダに残存ファイルなし（正常） 
-warning: in the working copy of 'data/manual_csv/move_log.txt', LF will be replaced by CRLF the next time Git touches it
-[claude/sharp-sagan-nox10q 1765df0] Update attendance CSV (automated, 2026/07/07 12:17:50.54)
- 1 file changed, 20 insertions(+)
-commit: 成功 
-Default branch: claude/sharp-sagan-nox10q 
-To https://github.com/kunikata-Eup/euphonauts-attendance-routine.git
-   2803065..1765df0  HEAD -> claude/sharp-sagan-nox10q
-push: 成功（push先: claude/sharp-sagan-nox10q） 
-===== 処理完了 2026/07/07 12:17:54.40 ===== 
- 
 ===== 2026/07/10  7:30:01.32 ===== 
 重複するファイル名が存在するか、またはファイルが
 見つかりませんでした。
@@ -275,4 +261,21 @@ push: 成功（push先: main）
 ===== 2026/07/22  7:30:01.94 ===== 
 重複するファイル名が存在するか、またはファイルが
 見つかりませんでした。
+移動処理: Downloadsフォルダに残存ファイルなし（正常） 
+[main aa15104] Update attendance CSV (automated, 2026/07/22  7:30:03.07)
+ 1 file changed, 17 insertions(+), 21 deletions(-)
+commit: 成功 
+Default branch: main 
+From https://github.com/kunikata-Eup/euphonauts-attendance-routine
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+pull: 成功 
+To https://github.com/kunikata-Eup/euphonauts-attendance-routine.git
+   86bbdfa..aa15104  HEAD -> main
+push: 成功（push先: main） 
+===== 処理完了 2026/07/22  7:30:08.66 ===== 
+ 
+===== 2026/07/24  7:30:01.75 ===== 
+C:\Users\Kunikata\Downloads\日次勤怠一覧_月末締め（翌月末日払い）_2026_08.csv
+        1 個のファイルを移動しました。
 移動処理: Downloadsフォルダに残存ファイルなし（正常） 
